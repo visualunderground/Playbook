@@ -39,9 +39,3 @@ Key things you should look to get done:
 Defining the project scope TODO: link
 
 Challenging the Project Brief TODO: link
-
-
-
-> ℹ️ **Feedback:**
->It is really important to get those using the Playbook so that we can improve it as we go.
->Please add your constructive feedback in the comments below.
