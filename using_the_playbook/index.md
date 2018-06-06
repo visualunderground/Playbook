@@ -21,7 +21,7 @@ If you're adding an artefact or link to a play that already has an existing page
 ## Adding Your Own Plays
 If you're adding a type of play that isn't in the Playbook yet
 
-1. Simply copy the [Play Template](play_template) page by clicking on the '...' at the top right of the page
+1. Simply copy the [Play Template](play_template.md) page by clicking on the '...' at the top right of the page
 1. Select 'Copy' from the dropdown menu
 1. Click on the blue 'Copy' button in the dialogue box that pops up
 1. A new page will be created. Amend the H1 Title of the page to the play name
