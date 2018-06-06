@@ -30,4 +30,4 @@ If you're adding a type of play that isn't in the Playbook yet
 1. Update the page
 1. Hey presto! Now other people can benefit from your good work.
 
-> 💡 **TIP** Get on your slack channel and tell people that you've added something to the Knowledge share - and don't forget to include a link to it.
+> 💡 **TIP:** Get on your slack channel and tell people that you've added something to the Knowledge share - and don't forget to include a link to it.
