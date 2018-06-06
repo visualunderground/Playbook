@@ -57,7 +57,7 @@ There are many ways to evaluate ideas and decide which should be prototyped. Som
 ### Six thinking Hats
 - [Six-Thinking-Hats.pdf](../pdfs/Six-Thinking-Hats.pdf)
 ### No How Wow Matrix
-- [Six-Thinking-Hats.pdf](../pdfs/Six-Thinking-Hats.pdf)
+- [Now-Wow-How-Matrix.pdf](../pdfs/Now-Wow-How-Matrix.pdf)
 ### Need, Approach, Benefit, Competition Method (NABC)
 - [Need Approach, Benefit, Competition Method (NABC)](https://medium.com/@dan.nessler/ideate-prototype-pitch-in-no-time-applying-this-3-in-1-method-32abcfe3f096)
 
