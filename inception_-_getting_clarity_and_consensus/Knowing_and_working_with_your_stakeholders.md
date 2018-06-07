@@ -1,6 +1,6 @@
 # Knowing and working with your stakeholders
 
-##What
+## What
 Stakeholder Mapping to identify your key project influencers, supporters and opposers.
 
 The stakeholder matrix, mind map and onion are simple, but very effective tools for analysing stakeholders.
