@@ -5,7 +5,7 @@ The following plays can be found in the Playbook
 - [Using the Playbook](/using_the_playbook/index.md)
   - [Play template](/using_the_playbook/play_template.md)
 - [Inception - Getting clarity and consensus](/inception_-_getting_clarity_and_consensus/index.md)
-  - [Knowing and working with your stakeholders](/inception_-_getting_clarity_and_consensus/knowing_and_working_with_your_stakeholders.md)
+  - [Knowing and working with your stakeholders](/inception_-_getting_clarity_and_consensus/Knowing_and_working_with_your_stakeholders.md)
 - Keeping your project on track
 - [Involving users in co-creation](/involving_users_in_co-creation/index.md)
   - [Using "How Might We..." questions](/involving_users_in_co-creation/using_hmw_questions.md)
