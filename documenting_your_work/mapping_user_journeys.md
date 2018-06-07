@@ -40,7 +40,7 @@ Useful when understanding a current user experience:
 - Project team
 - Users
 
-##Further reading
+## Further reading
 - GDS: [Creating an experience map](https://www.gov.uk/service-manual/user-research/creating-an-experience-map)
 - GDS: [User journey maps and funnels](https://insidegovuk.blog.gov.uk/2015/07/16/user-journey-maps-and-funnels/)
 - The UX Review: [User journeys beginners guide](https://theuxreview.co.uk/user-journeys-beginners-guide/)
