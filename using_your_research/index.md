@@ -52,40 +52,33 @@ The following exercises give you the power to facilitate a conversation with you
 
 
 ## Key Documentation
-
-Priority mapping template
-
-Assumption mapping template
-
-Kano template
-
+- TODO: Priority mapping template
+- TODO: Assumption mapping template
+- TODO: Kano template
 
 ## Links
 ### Affinity mapping and clustering
-- [Design Thinking Methods - Affinity Diagrams](https://uxdict.io/design-thinking-methods-affinity-diagrams-357bd8671ad4)
-- [Affinity Diagramming for Collaboratively Sorting UX Findings and Design Ideas](https://www.nngroup.com/articles/affinity-diagram/)
-- [Affinity Diagrams - Tips and Tricks](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df)
-- [Affinity Map - how to play](http://gamestorming.com/affinity-map/)
-
-### Priority mapping
-- [Prioritising your audience](http://www.health.org.uk/sites/health/files/Prioritising-your-audiences.pdf)
+- uxdict.io: [Design Thinking Methods - Affinity Diagrams](https://uxdict.io/design-thinking-methods-affinity-diagrams-357bd8671ad4)
+- NNg: [Affinity Diagramming for Collaboratively Sorting UX Findings and Design Ideas](https://www.nngroup.com/articles/affinity-diagram/)
+- Medium: [Affinity Diagrams - Tips and Tricks](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df)
+- Gamestorming: [Affinity Map - how to play](http://gamestorming.com/affinity-map/)
 
 ### Assumption mapping
-- Medium: Assumption Mapping - Breaking down the end user’s mental journey
-- Mural: How to Look Before You Leap - A guide to mapping assumptions for product development teams
+- Medium: [Assumption Mapping - Breaking down the end user’s mental journey](https://medium.com/turning-lids/assumption-mapping-b1f2561c3889)
+- Mural: [How to Look Before You Leap - A guide to mapping assumptions for product development teams](http://blog.mural.co/2017/01/31/how-to-look-before-you-leap-a-guide-to-mapping-assumptions-for-product-development-teams)
 
 ### Impact mapping
-- Gojko: Impact Mapping Workshop
-- Github: Open impact mapping workshop
+- Gojko: [Impact Mapping Workshop](https://gojko.net/news/2016/05/09/open-impact-mapping.html)
+- Github: [Open impact mapping workshop](https://github.com/impactmapping/open-impact-mapping-workshop)
 
 ###Kano method (prioritisation)
-- uxmag: Leveraging the Kano Model for Optimal Results
-- Folding Burritos: The Complete Guide to the Kano Model - Prioritizing Customer Satisfaction and Delight
-- Medium: Kano Model — Ways to use it and NOT use it
-- Mind the product: Using The Kano Model To Prioritize Product Development
+- uxmag: [Leveraging the Kano Model for Optimal Results](http://uxmag.com/articles/leveraging-the-kano-model-for-optimal-results)
+- Folding Burritos: [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
+- Medium: [Kano Model — Ways to use it and NOT use it](https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808)
+- Mind the product: [Using The Kano Model To Prioritize Product Development](https://www.mindtheproduct.com/2013/07/using-the-kano-model-to-prioritize-product-development/)
 
 ### Use collaboration to bring different perspectives
-- [Abductive Thinking and Sensemaking - The Drivers of Design Synthesis](http://www.jonkolko.com/writingAbductiveThinking.php) - Jon Kolko
+- Jon Kolko: [Abductive Thinking and Sensemaking - The Drivers of Design Synthesis](http://www.jonkolko.com/writingAbductiveThinking.php)
 
 ### UX KPIs
-- [UX KPIs and metrics](https://www.cxpartners.co.uk/our-thinking/big_list_of_ux_kpis_and_metrics/) - CX Partners
+- CX Partners: [UX KPIs and metrics](https://www.cxpartners.co.uk/our-thinking/big_list_of_ux_kpis_and_metrics/)
