@@ -71,7 +71,7 @@ The following exercises give you the power to facilitate a conversation with you
 - Gojko: [Impact Mapping Workshop](https://gojko.net/news/2016/05/09/open-impact-mapping.html)
 - Github: [Open impact mapping workshop](https://github.com/impactmapping/open-impact-mapping-workshop)
 
-###Kano method (prioritisation)
+### Kano method (prioritisation)
 - uxmag: [Leveraging the Kano Model for Optimal Results](http://uxmag.com/articles/leveraging-the-kano-model-for-optimal-results)
 - Folding Burritos: [The Complete Guide to the Kano Model](https://foldingburritos.com/kano-model/)
 - Medium: [Kano Model — Ways to use it and NOT use it](https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808)
